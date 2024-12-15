@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: mehar221/project2nd
+        image: admin/project2nd
         ports:
         - containerPort: 80
